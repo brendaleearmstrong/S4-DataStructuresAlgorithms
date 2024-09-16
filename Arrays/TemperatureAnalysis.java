@@ -1,3 +1,5 @@
+package temperatureanalysis;
+
 import java.util.Scanner;
 
 public class temperatureanalysis {
