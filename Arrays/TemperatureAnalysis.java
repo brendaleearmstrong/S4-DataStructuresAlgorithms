@@ -1,14 +1,12 @@
-package Arrays;
-
 import java.util.Scanner;
 
-public class TemperatureAnalysis {
+public class temperatureanalysis {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         System.out.println("How many days of temperature data would you like to enter?");
         int numDays = getNumberOfDays();
-        
+
         double[] temperatures = getTemperatures(numDays);
         double averageTemp = calculateAverage(temperatures);
         int daysAboveAverage = countDaysAboveAverage(temperatures, averageTemp);
