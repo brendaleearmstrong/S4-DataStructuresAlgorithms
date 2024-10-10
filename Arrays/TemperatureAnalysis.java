@@ -1,8 +1,8 @@
-package temperatureanalysis;
+package arrays;
 
 import java.util.Scanner;
 
-public class temperatureanalysis {
+public class TemperatureAnalysis {  // Corrected class name to PascalCase
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
