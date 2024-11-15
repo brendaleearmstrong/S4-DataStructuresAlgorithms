@@ -2,6 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Animal-Shelter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Midterm-Sprint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Midterm-Sprint/Misight-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Midterm-Sprint/ToDoListManager" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled" vcs="Git" />
   </component>
 </project>
